@@ -83,7 +83,7 @@ public class Main {
     var totalHour1 = 640;
     var hourPerEmpl = 8;
     var emplQuantity1 = totalHour1 / hourPerEmpl;
-    System.out.println("Всего работников в компании " + emplQuantity1 + " человек.");
+    System.out.println("Всего работников в компании " + emplQuantity1 + "человек.");
     var emplQuantity2 = emplQuantity1 + 94;
     var totalHour2 = emplQuantity2 * 8;
     System.out.println("Если в компании работает " + emplQuantity2 + " человека," + " то всего " + totalHour2 + " часов работы может быть поделено между сотрудниками.");
